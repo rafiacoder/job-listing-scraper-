@@ -1,8 +1,8 @@
-# 📄 Rozee.pk Job Listing Scraper (Selenium Based)
+📄 Rozee.pk Job Listing Scraper (Selenium Based)
 
 This is an automated job scraper built with **Python** and **Selenium**. It extracts job listings from [Rozee.pk](https://www.rozee.pk) using browser automation techniques.
-
-## 🔧 Technologies Used
+"Built with Selenium — encountered advanced bot-detection which led me to explore better tools like Playwright."
+🔧 Technologies Used
 
 - 🐍 Python 3
 - 🧪 Selenium WebDriver
@@ -11,8 +11,7 @@ This is an automated job scraper built with **Python** and **Selenium**. It extr
 - 📝 HTML parsing (planned in next versions)
 
 ---
-
-## 💡 Features
+💡 Features
 
 - ✅ Random User-Agent to reduce bot detection
 - ✅ Dynamic wait handling with `time.sleep`
@@ -34,7 +33,6 @@ Blocks Selenium bots
 Job cards = 0 found
 
 🔄 Switching to Playwright
-
 Better stealth + dynamic content support
 Using async version for performance
 Plan to extract multiple pages
