@@ -1,0 +1,2 @@
+from job_listing_extractor.automation import perform_automation
+driver= perform_automation()
